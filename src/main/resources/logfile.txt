@@ -1,0 +1,6 @@
+{"id":"test1", "state":"STARTED", "type":"APPLICATION_LOG", "host":"12345", "timestamp":123456}
+{"id":"test2", "state":"STARTED", "timestamp":123456}
+{"id":"test3", "state":"FINISHED", "timestamp":123470}
+{"id":"test1", "state":"FINISHED", "type":"APPLICATION_LOG", "host":"12345", "timestamp":123466}
+{"id":"test3", "state":"STARTED", "timestamp":123456}
+{"id":"test2", "state":"FINISHED", "timestamp":123460}
