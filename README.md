@@ -13,5 +13,5 @@ Once the application build is successful, the application's jar file will be gen
 java -jar logger-0.0.1-SNAPSHOT.jar logFilePath=<absolute-path-to-file>
 ```
 
-##Note:
+## Note:
 The sample logfile.txt is provided under the application's resources folder.
